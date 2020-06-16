@@ -47,7 +47,7 @@
 }
 
 .dua {
-  margin-left: 800px;
+  margin-left: 200px;
 }
 
 .container3 {
@@ -68,7 +68,6 @@
   background-color: rgb(49, 45, 45);
 }
 
-.nav .flex-column {
-    margin-top: 1000px;
-    margin-left: 500px;
+ul {
+    margin-left: 10px;
 }
