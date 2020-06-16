@@ -5,6 +5,10 @@
     justify-content: center;
   }
 
+  .container1 a {
+      color: black;
+  }
+
   .dua {
       margin: auto;
   }
