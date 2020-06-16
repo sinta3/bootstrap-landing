@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+}
+
+.container1 a {
+  color: white;
+}
+
+.container1 {
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  background-image: url(./emre-gencer-NZMeJsrMC8U-unsplash.jpg);
+}
+
+.container2 {
+  height: 300px;
+  text-align: center;
+  display: flex;
+}
+
+.container2 h4 {
+  margin: auto;
+}
+
+.space {
+  width: 30px;
+  height: 5px;
+  background-color: rgb(49, 45, 45);
+}
+
+.container3 {
+  height: 200px;
+  background-color: rgb(49, 45, 45);
+}
+
+.container4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.container4 a {
+  color: black;
+}
+
+.dua {
+  margin-left: 800px;
+}
+
+.container3 {
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.carousel .slide {
+  margin-top: 50px;
+}
+
+.box {
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(49, 45, 45);
+}
+
+.nav .flex-column {
+    margin-top: 1000px;
+    margin-left: 500px;
+}

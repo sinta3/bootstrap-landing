@@ -1,0 +1,29 @@
+@media screen and (max-width: 500px) {
+  .container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .dua {
+      margin: auto;
+  }
+
+  .container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
